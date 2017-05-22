@@ -6,3 +6,6 @@ var data = fs.readFileSync('input.txt', function(err, data){
 });
 
 console.log('Program ended!');
+
+
+
